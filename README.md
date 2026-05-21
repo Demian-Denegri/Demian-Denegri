@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Demian%20Denegri&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desarrollador%20Junior%20%7C%20Argentina%20%F0%9F%87%A6%F0%9F%87%B7&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Software+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+%7C+Web+%7C+Bases+de+Datos+%F0%9F%9B%A0%EF%B8%8F;Autodidacta+%7C+Buenos+Aires%2C+Argentina+%F0%9F%93%8D;%22La+disciplina+vence+a+la+motivaci%C3%B3n.%22+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Software+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+%7C+Web+%7C+Bases+de+Datos+%F0%9F%9B%A0%EF%B8%8F;Autodidacta+%7C+Buenos+Aires%2C+Argentina+%F0%9F%93%8D)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Demian-Denegri&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Demian**, un desarrollador junior apasionado por construir soluciones reales desde **Buenos Aires, Argentina**. Me caracterizo por ser autodidacta, proactivo y con fuerte motivación por crecer en el mundo del software.
+Soy **Demian**, actualmente cursando la carrera de **Desarrollo de Software** en Argentina. Me apasiona construir soluciones reales y crecer constantemente en el mundo del software, con foco en el backend y las bases de datos.
 
 ```text
 🎓  Estudiante de Desarrollo de Software
@@ -80,8 +80,6 @@ Soy **Demian**, un desarrollador junior apasionado por construir soluciones real
 ---
 
 <div align="center">
-
-*"La disciplina vence a la motivación."* 💪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
