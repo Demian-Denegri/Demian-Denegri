@@ -63,11 +63,7 @@ Soy **Demian**, actualmente cursando la carrera de **Desarrollo de Software** en
 <img src="https://raw.githubusercontent.com/Demian-Denegri/Demian-Denegri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
-
-> ⚠️ *Para activar la animación del snake, seguí [estas instrucciones](https://github.com/Platane/snk).*
-
 ---
-
 ## 📫 Contacto
 
 <div align="center">
