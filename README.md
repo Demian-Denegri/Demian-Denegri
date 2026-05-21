@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Demián Denegri</h1>
+<h3 align="center">Software Development Student from Argentina</h3>
 
-<!--
-**Demian-Denegri/Demian-Denegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about technology, self-taught learning and software development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Software Development Student
+- 🧠 Self-taught and constantly learning
+- 💻 Focused on building real projects and improving every day
+- ⚡ Interested in web development, backend and databases
+
+---
+
+## 🛠 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="www.linkedin.com/in/demiandenegri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Discipline beats motivation."</i>
+</p>
