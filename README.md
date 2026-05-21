@@ -39,21 +39,6 @@ Soy **Demian**, actualmente cursando la carrera de **Desarrollo de Software** en
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Demian-Denegri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Demian-Denegri&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Demian-Denegri&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🐍 Contribuciones
 
 <div align="center">
