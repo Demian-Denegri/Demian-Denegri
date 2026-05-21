@@ -31,7 +31,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a src="www.linkedin.com/in/demiandenegri">
+  <a href="www.linkedin.com/in/demiandenegri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
